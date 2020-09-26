@@ -13,3 +13,5 @@ This is a command-line program that, once run, takes coordinates on a prompt and
 
 ## Future versions
 Since this project mostly has amatuer astronomers in mind, the next goal is to incorporate a search of various catalogs instead of relying on direct coordinate input. The first catalogs to be included will be the Caldwell and Messier Catalogs due to their relatively short length and focus on visibility with less powerful telescopes. If I still feel motivated enough after making this functionality work, I may try to get it to run outside of a command line. 
+
+Since the catalogs obviously will not include every single sky object, I'll make different files with different names as not to lose functionality of earlier programs.
